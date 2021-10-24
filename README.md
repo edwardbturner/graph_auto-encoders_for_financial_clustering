@@ -2,8 +2,7 @@
 
 ## Requirements
 ```
-(Anaconda) Python 3.6
-pandas
+Python 3.6
 torch
 torch_geometric
 ```

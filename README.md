@@ -27,6 +27,13 @@ If this is found to be helpful in your work consider refrencing the paper with:
 
 ------------
 
-    $ [sudo] gem install jekyll-scholar
+    $   @misc{turner2021graph,
+      title={Graph Auto-Encoders for Financial Clustering}, 
+      author={Edward Turner},
+      year={2021},
+      eprint={2111.13519},
+      archivePrefix={arXiv},
+      primaryClass={q-fin.ST}
+  }.
 
 Or add it to your `Gemfile`:

@@ -7,7 +7,7 @@ torch
 torch_geometric
 ```
 ## Overview
-This is a samll repository for my paper available at: https://arxiv.org/abs/2111.13519.
+This is a small repository for my paper available at: https://arxiv.org/abs/2111.13519.
 
 The ```5_fold_cross_validation.py``` file provides the code to split graph data into sets where k-fold cross validation can be carried out.
 

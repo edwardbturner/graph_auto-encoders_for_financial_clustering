@@ -17,8 +17,6 @@ This is just the basic code used in the paper, if you want anything additional f
 
 If this is found to be helpful in your work consider refrencing the paper:
 
-------------
-
   @misc{turner2021graph,
       title={Graph Auto-Encoders for Financial Clustering}, 
       author={Edward Turner},
@@ -27,5 +25,7 @@ If this is found to be helpful in your work consider refrencing the paper:
       archivePrefix={arXiv},
       primaryClass={q-fin.ST}
   }.
+  
+    $ [sudo] gem install jekyll-scholar
 
 Or add it to your `Gemfile`:

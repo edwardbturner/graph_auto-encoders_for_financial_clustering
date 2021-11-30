@@ -13,7 +13,7 @@ The ```5_fold_cross_validation.py``` file provides the code to split graph data 
 
 The ```model.py``` and ```train_validation_test.py``` files provide the graph auto-encoder used in the paper and the code to optimise it.
 
-This is just the basic code used in the paper, if you want anything additional feel free to contact me. I do not provide the actual PyTorch geometric graphs used here as the edge information for them was kindly given for my personal use but if needed I can enquire about their distribution. 
+This is just the basic code used in the paper, if you want anything additional feel free to contact me. I do not provide the actual PyTorch geometric graphs used as the news co-occurrence edges were kindly given for my personal use but if needed I can enquire about their distribution. 
 
 If this is found to be helpful in your work consider refrencing the paper:
 

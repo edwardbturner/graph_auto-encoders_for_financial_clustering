@@ -26,6 +26,6 @@ If this is found to be helpful in your work consider refrencing the paper:
       primaryClass={q-fin.ST}
   }.
   
-    $ [sudo] gem install jekyll-scholar
+    gem 'jekyll-scholar', group: :jekyll_plugins
 
 Or add it to your `Gemfile`:

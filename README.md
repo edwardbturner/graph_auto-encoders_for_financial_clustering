@@ -15,19 +15,11 @@ The ```model.py``` and ```train_validation_test.py``` files provide the graph au
 
 This is just the basic code used in the paper, if you want anything additional feel free to contact me.
 
-If this is found to be helpful in your work consider refrencing the paper with:
-  @misc{turner2021graph,
-      title={Graph Auto-Encoders for Financial Clustering}, 
-      author={Edward Turner},
-      year={2021},
-      eprint={2111.13519},
-      archivePrefix={arXiv},
-      primaryClass={q-fin.ST}
-  }.
+If this is found to be helpful in your work consider refrencing the paper:
 
 ------------
 
-    $   @misc{turner2021graph,
+  @misc{turner2021graph,
       title={Graph Auto-Encoders for Financial Clustering}, 
       author={Edward Turner},
       year={2021},

@@ -1,5 +1,7 @@
 # Repository for the paper "Graph Auto-Encoders for Financial Clustering"
 
+Paper: https://arxiv.org/abs/2111.13519
+
 ## Requirements
 ```
 Python 3.6
